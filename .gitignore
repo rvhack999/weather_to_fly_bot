@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#my ordrers
+.env
+.venv
+__pycache__
+users.json
